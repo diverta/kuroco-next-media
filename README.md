@@ -65,8 +65,6 @@ Before deploying this template, you'll need:
    - It will look like: `https://your-instance.a.kuroco.app`
    - You'll need this for the next step
 
-For detailed setup instructions, follow the [Kuroco Media Sample Site Tutorial](https://kuroco.app/docs/tutorials/kuroco-media-sample-site/).
-
 ### Step 2: Configure Environment Variables
 
 Before deployment, prepare your environment variables:
