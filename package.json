@@ -1,0 +1,37 @@
+{
+  "name": "next-media",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint --fix",
+    "format": "prettier --write"
+  },
+  "lint-staged": {
+    "*.{js,ts,jsx,tsx}": [
+      "npm run lint",
+      "npm run format"
+    ],
+    "*.{css,scss}": "npm run format"
+  },
+  "dependencies": {
+    "clsx": "^2.1.0",
+    "next": "^15.5.7",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^15.5.7",
+    "eslint-config-prettier": "^9.1.0",
+    "husky": "^9.0.11",
+    "lint-staged": "^15.2.2",
+    "postcss": "^8.5.3",
+    "prettier": "^3.2.5",
+    "sass": "^1.69.5",
+    "tailwindcss": "^3.4.17"
+  }
+}
