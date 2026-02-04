@@ -1,7 +1,7 @@
 # Kuroco Media Sample Site
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdiverta%2Ffront_next_media&env=NEXT_PUBLIC_BASE_URL,NEXT_PUBLIC_FRONT_URL&envDescription=Kuroco%20API%20configuration%20required&envLink=https%3A%2F%2Fkuroco.app%2Fdocs%2Ftutorials%2Fkuroco-media-sample-site%2F&demo-title=Kuroco%20Media%20Sample&demo-description=A%20media%20sample%20site%20built%20with%20Next.js%20and%20Kuroco%20CMS&demo-url=https%3A%2F%2Fdev-next-media.g.kuroco-front.app%2F)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/diverta/front_next_media)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdiverta%2Fkuroco-next-media&env=NEXT_PUBLIC_BASE_URL,NEXT_PUBLIC_FRONT_URL&envDescription=Kuroco%20API%20configuration%20required&envLink=https%3A%2F%2Fkuroco.app%2Fdocs%2Ftutorials%2Fkuroco-media-sample-site%2F&demo-title=Kuroco%20Media%20Sample&demo-description=A%20media%20sample%20site%20built%20with%20Next.js%20and%20Kuroco%20CMS&demo-url=https%3A%2F%2Fdev-next-media.g.kuroco-front.app%2F)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/diverta/kuroco-next-media)
 
 A modern media sample site built with Next.js and [Kuroco](https://kuroco.app/) headless CMS. This template demonstrates how to create a fully functional media site with content management capabilities.
 
@@ -84,7 +84,7 @@ Before deployment, prepare your environment variables:
 
 Click the deploy button below to create your own copy:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdiverta%2Ffront_next_media&env=NEXT_PUBLIC_BASE_URL,NEXT_PUBLIC_FRONT_URL&envDescription=Kuroco%20API%20configuration%20required&envLink=https%3A%2F%2Fkuroco.app%2Fdocs%2Ftutorials%2Fkuroco-media-sample-site%2F)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdiverta%2Fkuroco-next-media&env=NEXT_PUBLIC_BASE_URL,NEXT_PUBLIC_FRONT_URL&envDescription=Kuroco%20API%20configuration%20required&envLink=https%3A%2F%2Fkuroco.app%2Fdocs%2Ftutorials%2Fkuroco-media-sample-site%2F)
 
 **Deployment Steps:**
 1. Click the deploy button above
@@ -116,10 +116,10 @@ To run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/diverta/front_next_media.git
+git clone https://github.com/diverta/kuroco-next-media.git
 
 # Navigate to the project directory
-cd front_next_media
+cd kuroco-next-media
 
 # Install dependencies
 npm install
@@ -141,7 +141,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ## 📁 Project Structure
 
 ```
-front_next_media/
+kuroco-next-media/
 ├── src/
 │   ├── app/              # Next.js App Router pages
 │   ├── components/       # React components
@@ -204,7 +204,7 @@ Need help? We're here to assist you:
 - **Slack Community**: [Join Kuroco Support Slack](https://join.slack.com/t/kurocosupport/shared_invite/zt-16y74m1ba-guje0SHDwpXp91hii35kRw) - Get quick help from the community
 - **Support Form**: [Submit a ticket](https://kuroco.zendesk.com/) - For detailed technical support
 - **Documentation**: [Kuroco Docs](https://kuroco.app/docs/) - Comprehensive guides and references
-- **Issues**: [GitHub Issues](https://github.com/diverta/front_next_media/issues) - Report bugs or request features
+- **Issues**: [GitHub Issues](https://github.com/diverta/kuroco-next-media/issues) - Report bugs or request features
 
 ## 🚀 What's Next?
 
